@@ -1,1 +1,2 @@
 # odin-recipies
+Practice html basic webpage construction using odin project basic html skills. Include headers lists images links etc. make use of git/github vs code and terminal. Feel like coding has begun
